@@ -10,7 +10,7 @@ public class Main {
 
         System.out.println("Saldo é:"+
                 contaCorrente.obterSaldo());
-        System.out.println("Numero da comta é" +
+        System.out.println("Numero da conta é" +
                 contaCorrente.retornarnumeroConta());
     }
 }
